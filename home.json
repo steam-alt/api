@@ -1,0 +1,56 @@
+{
+  "featured": {
+    "title": "The Crew 2",
+    "icon": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/646910/capsule_184x69.jpg",
+    "banner": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/646910/library_hero.jpg",
+    "cover": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/646910/header.jpg",
+    "url": "/game/646910",
+    "desc": "Butifule open world multiplayer car game"
+  },
+
+  "popular": [
+    {
+      "title": "GTA V",
+      "cover": "https://...",
+      "url": "/game/GTA V"
+    },
+    {
+      "title": "Elden Ring",
+      "cover": "https://...",
+      "url": "/game/Elden Ring"
+    }
+  ],
+
+  "for_you": [
+    {
+      "title": "Rimworld",
+      "cover": "https://...",
+      "url": "/game/Rimworld"
+    }
+  ],
+
+  "events": [
+    {
+      "title": "🔥 Winter Sale",
+      "banner": "https://...",
+      "url": "/event/winter-sale",
+      "desc": "Jusqu'à -90% !"
+    }
+  ],
+
+  "new_releases": [
+    {
+      "title": "Hades 2",
+      "cover": "https://...",
+      "url": "/game/Hades 2"
+    }
+  ],
+
+  "top_rated": [
+    {
+      "title": "The Witcher 3",
+      "cover": "https://...",
+      "url": "/game/The Witcher 3"
+    }
+  ]
+}
